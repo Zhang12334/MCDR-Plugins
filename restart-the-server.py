@@ -7,7 +7,7 @@ import os
 PLUGIN_METADATA = {
     'id': 'restart_the_server',
     'version': '1.0.0',
-    'name': 'By Zhang1233'
+    'name': 'restart_the_server'
 }
 
 if TYPE_CHECKING:
