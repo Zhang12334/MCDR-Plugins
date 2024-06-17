@@ -4,7 +4,7 @@ from mcdreforged.api.command import Literal
 PLUGIN_METADATA = {
     'id': 'kill',
     'version': '1.0.0',
-    'name': 'By Zhang1233'
+    'name': 'kill'
 }
 
 if TYPE_CHECKING:
